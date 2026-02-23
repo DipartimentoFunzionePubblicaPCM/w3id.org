@@ -1,4 +1,4 @@
-Repository (italia/public-administration-governance ) for redirecting to ontologies and open data of Department for Public Administration of the Presidency of the Council of Ministers
+Repository (italia/public-administration-governance) for redirecting to ontologies and open data of Department for Public Administration of the Presidency of the Council of Ministers
 ===================
 
 We intend to use **w3id.org/italia/public-administration-governance** for national persistent URIs for public administration governance.
